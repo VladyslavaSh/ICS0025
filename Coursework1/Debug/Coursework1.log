@@ -1,0 +1,4 @@
+﻿  Library.cpp
+C:\Users\Vlada\source\repos\Coursework1\Coursework1\Library.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlada\source\repos\Coursework1\Coursework1\Library.cpp(183,10): warning C4018: '<': signed/unsigned mismatch
+  Coursework1.vcxproj -> C:\Users\Vlada\source\repos\Coursework1\Debug\Coursework1.exe

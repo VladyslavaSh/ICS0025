@@ -1,0 +1,6 @@
+﻿  Coursework2.cpp
+  DataStructure.cpp
+C:\Users\Vlada\source\repos\Coursework1\Coursework2\DataStructure.cpp(585,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlada\source\repos\Coursework1\Coursework2\DataStructure.cpp(595,10): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Coursework2.vcxproj -> C:\Users\Vlada\source\repos\Coursework1\Debug\Coursework2.exe
